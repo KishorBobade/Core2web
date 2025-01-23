@@ -1,2 +1,2 @@
 # Core2web
-Class
+Class.
